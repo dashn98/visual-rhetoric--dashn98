@@ -1,6 +1,6 @@
 # visual-rhetoric--dashn98
 visual-rhetoric--dashn98 created by GitHub Classroom
-Hi I'm Nicole and this is my Visual Rhetoric Project
+Hi I'm Nicole and this is my Visual Rhetoric Project  
 Please see [WomenInTech.md](https://github.com/pitt-cdm/visual-rhetoric--dashn98/blob/master/WomenInTech.md) for my preview explanation  
 Please see [WomenInTech.png](https://github.com/pitt-cdm/visual-rhetoric--dashn98/blob/master/WomenInTech.png) for my preview image  
 Please see [WomenInTech.xcf](https://github.com/pitt-cdm/visual-rhetoric--dashn98/blob/master/WomenInTech.xcf) for my GIMP project  
